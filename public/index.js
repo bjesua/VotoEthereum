@@ -20,7 +20,9 @@ $(document).ready(function() {
   });
 
   $('#voteSubmit').click(function(event) {
-    
+    $('#voteSubmit').hide();
+    $('#candidateName').hide();
+
     const headers = new Headers({
       "Content-Type": "application/json",
     });

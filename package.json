@@ -1,7 +1,7 @@
 {
-  "name": "hello_world_voting",
+  "name": "Voto_electronico_Eth_UMG_jesua",
   "version": "1.0.0",
-  "description": "first try at DaPP ",
+  "description": "DaPP ",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",

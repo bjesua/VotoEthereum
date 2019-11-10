@@ -1,1 +1,1 @@
-module.exports = ['Yeimi', 'David', 'Jesua']
+module.exports = ['Si', 'No']
